@@ -8,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class Scenario2Component1Component implements OnInit {
 
   constructor() { }
-  public name="";
+  public name='';
 
   ngOnInit() {
   }

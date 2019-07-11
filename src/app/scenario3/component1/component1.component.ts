@@ -8,10 +8,10 @@ import { Component, OnInit } from '@angular/core';
 export class Scenario3Component1Component implements OnInit {
 
   constructor() { }
-  public name;
+  public name='';
   onClick(value){
     console.log(value);
-     this.name=value;
+    this.name=value;
   }
 
   ngOnInit() {

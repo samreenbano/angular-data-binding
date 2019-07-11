@@ -1,7 +1,9 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { Scenario3Component2Component } from './component2/component2.component';
+
 import { Scenario3Component1Component } from './component1/component1.component';
+import { Scenario3Component2Component } from './component2/component2.component';
+
 
 @NgModule({
   declarations: [

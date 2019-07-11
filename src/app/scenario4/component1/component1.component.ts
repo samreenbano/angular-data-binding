@@ -8,7 +8,8 @@ import { Component, OnInit } from '@angular/core';
 export class Scenario4Component1Component implements OnInit {
 
   constructor() { }
-  public value="";
+  public msg ='';
+  
 
   ngOnInit() {
   }

@@ -6,7 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./component1.component.css']
 })
 export class Scenario6Component1Component implements OnInit {
-  public property="";
+  public property='';
 
   constructor() { }
 
